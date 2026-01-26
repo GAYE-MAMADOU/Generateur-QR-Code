@@ -12,3 +12,5 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+Sitemap: https://ls-qr-code-generator.netlify.app/sitemap.xml
