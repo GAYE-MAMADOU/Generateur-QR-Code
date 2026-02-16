@@ -75,7 +75,7 @@ export function QRGenerator() {
                 <QrCode className="w-6 h-6 text-primary-foreground" />
               </div>
               <div>
-                <h1 className="font-display font-bold text-xl gradient-text">QR Code Studio</h1>
+                <h1 className="font-display font-bold text-xl gradient-text">LS #Generateur de QR Code</h1>
                 <p className="text-xs text-muted-foreground">Générateur de QR codes personnalisables</p>
               </div>
             </div>
